@@ -1,0 +1,48 @@
+.about-article {
+    color: $white-color;
+}
+
+.about-article h4 {
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.about-vision-image  {
+    width: 5rem;
+    margin-right: 2rem;
+    margin-bottom: 4rem;
+}
+
+.about-vision-one, .about-vision-two {
+    width: 48%;
+    height: 48%;
+}
+
+.width-vision-image {
+    width: 23rem;
+}
+
+
+// our-team
+.our-team {
+    background-color: $tertiary;
+}
+
+.our-team-medium-text {
+    font-size: 0.9rem;
+    font-weight: 600;
+
+}
+
+.our-team-small-text {
+    color: $primary;
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+.our-team-member {
+    background-color: $white-color;
+    padding-bottom: 1.5rem;
+}
+.our-team-member img {
+    width: 15rem;
+}
